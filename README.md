@@ -2,6 +2,8 @@
 
 This is a landing page project featuring a smooth parallax scrolling effect. The theme of the site is 'Moon Light'. 
 
+[View Demo](https://master--euphonious-buttercream-936733.netlify.app)
+
 ## Overview
 
 The Moon Light site is designed to demonstrate the capabilities of parallax scrolling effects in enhancing the visual appeal and interactive feel of a webpage. The site uses a lunar theme to provide a sense of depth and movement as you scroll through the content.
